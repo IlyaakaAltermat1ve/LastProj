@@ -1,0 +1,22 @@
+.basket-card {
+	position: absolute;
+	right: 50px;
+	display: flex;
+	width: 100px;
+	top: 20%;
+	padding-top: 1%;
+	height: 50px;
+	justify-content: center;
+	background-color: red;
+	border-radius: 50;
+	color: white;
+	font-size: 12px;
+}
+
+.navbar {
+	height: 80px;
+}
+
+.basket-card p {
+	padding-right: 5px;
+}

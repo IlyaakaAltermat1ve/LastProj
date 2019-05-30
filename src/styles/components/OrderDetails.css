@@ -1,0 +1,57 @@
+.OrderComponents h1 {
+	margin: 50px;
+	margin-left: 5%;
+}
+
+.OrderComponents {
+	position: relative;
+}
+
+.grandma-photo img {
+	max-width: 160px;
+	position: fixed;
+}
+
+.grandma-photo {
+	display: flex;
+	justify-content: center;
+	position: absolute;
+	right: 10%;
+	top: 30%;
+	width: 500px;
+	height: 500px;
+}
+
+.form-container {
+	display: flex;
+}
+
+.final-price {
+	position: absolute;
+	right: 100px;
+	font-size: 30px;
+	font-weight: 800;
+}
+
+.OrderForm {
+	margin-left: 5%;
+	margin-top: 20%;
+}
+
+.name {
+	margin-bottom: 16px;
+}
+
+.info {
+	width: 100%;
+	border-radius: 5px;
+}
+
+.custom-range {
+	margin-bottom: 20px;
+}
+
+
+.getOrder {
+	margin-bottom: 40px;
+}

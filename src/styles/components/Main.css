@@ -1,0 +1,36 @@
+.grandma-img {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position: absolute;
+	bottom: 0;
+	left: 5%;
+	width: 300px;
+	height: 350px;
+	background-color: gray;
+	color: white;
+}
+
+.jumbotron {
+	position: relative;
+}
+
+.delivery-desc h1 {
+	font-weight: 900;
+}
+
+.delivery-desc h2 {
+	font-size: 20px;
+	padding-top: 30px;
+}
+
+
+.food-card {
+	margin: 30px;
+	width: 18rem;
+}
+
+.delivery-desc {
+	position: absolute;
+	left: 35%;	
+}
